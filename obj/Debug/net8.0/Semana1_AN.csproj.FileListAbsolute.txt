@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Escritorio\Progra final\Semana1_AN\Semana1_AN\obj\Debug\net8.0\Semana1_AN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Escritorio\Progra final\Semana1_AN\Semana1_AN\obj\Debug\net8.0\Semana1_AN.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Escritorio\Progra final\Semana1_AN\Semana1_AN\obj\Debug\net8.0\Semana1_AN.AssemblyInfo.cs
+C:\Users\USUARIO\Escritorio\Progra final\Semana1_AN\Semana1_AN\obj\Debug\net8.0\Semana1_AN.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Escritorio\Progra final\Semana1_AN\Semana1_AN\obj\Debug\net8.0\Semana1_AN.sourcelink.json
